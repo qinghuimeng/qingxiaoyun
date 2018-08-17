@@ -1,7 +1,7 @@
 {
     "name": "qingxiaoyun/qiangxiaoyun",
     "description": "addons package for qingxiaoyun",
-    "homepage": "https://gitee.com/cengjin/qingxiaoyun.git",
+    "homepage": "https://github.com/qinghuimeng/qingxiaoyun",
     "license": "Apache-2.0",
     "minimum-stability": "dev",
     "version": "1.0.0",
@@ -12,7 +12,7 @@
         }
     ],
     "support": {
-        "issues": "https://gitee.com/cengjin/qingxiaoyun.git"
+        "issues": "https://github.com/qinghuimeng/qingxiaoyun"
     },
     "require": {
         "php": ">=5.4.0",
